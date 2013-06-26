@@ -253,9 +253,9 @@ e. Três Diretores de área, cujas designações e atribuições serão definida
    Conselho Deliberativo.
 
 Art. 19º - Compete ao Diretor Presidente à representação em juízo e fora dele,
-bem como presidir as reuniões da Diretoria, assinar cheques em conjunto com o
-Diretor Financeiro, além das restantes atribuições que estatutariamente lhe
-estão conferido.
+bem como presidir as reuniões da Diretoria, assinar cheques, efetuar
+movimentações financeiras e pagamentos, além das restantes atribuições que
+estatutariamente lhe estão conferido.
 
 Art. 20º - Compete ao Diretor Vice-Presidente colaborar com a Presidência em
 suas atribuições, bem como substituir o Diretor Presidente em suas ausências e
@@ -263,8 +263,7 @@ impedimentos.
 
 Art. 21º - Compete ao Diretor Financeiro organizar e dirigir os trabalhos da
 tesouraria, tendo a seu cargo o arquivo de documentos contábeis, arrecadação de
-fundos e controle de despesas, bem como assinar cheques em conjunto com o
-Diretor Presidente.
+fundos e controle de despesas, bem como assinar cheques, efetuar movimentações financeiras e pagamentos.
 
 Art. 22º - Compete ao Diretor Administrativo organizar e dirigir os trabalhos
 da secretaria, tendo a seu cargo o arquivo dos livros da associação, manter em
