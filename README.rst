@@ -278,9 +278,11 @@ apropriado, bem como substituir, em seus impedimentos, os demais diretores.
  § único: os diretores de área poderão realizar permuta de cargos entre si,
  desde que por aprovação da maioria da Diretoria.
 
-Art. 24º - Os cheques e demais documentos contábeis necessitarão da assinatura
-conjunta do Diretor Presidente, do Diretor Financeiro, ou dos diretores que os
-substituírem em seus impedimentos.
+Art. 24º - Os documentos contábeis necessitarão da assinatura do Diretor
+Presidente ou do Diretor Financeiro;
+
+ § único: no caso da ausência ou impedimento do Diretor Presidente e do Diretor
+ Financeiro os documentos poderão ser assinados por qualquer Diretor;
 
 Art. 25º - O quorum mínimo para deliberações da Diretoria é de 3 (três)
 membros. As deliberações deverão se dar por maioria simples dos presentes,
