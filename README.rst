@@ -189,8 +189,9 @@ suplente) de Associados Plenos, e 2/3 (dois terços) de Associados Efetivos ou
 Plenos, conforme disposição abaixo, Capítulo VII, "Das eleições".
 
  § primeiro: o mandato dos membros do Conselho Deliberativo será de 2 (dois)
- anos, exceto no primeiro exercício, conforme disposto no Capítulo IX, "Das
- Disposições Gerais e Transitórias".
+ anos prorrogados automaticamente até o registro da ata empossando os
+ conselheiros eleitos em assembléia; exceto no primeiro exercício, conforme
+ disposto no Capítulo IX, "Das Disposições Gerais e Transitórias".
 
  § segundo: o Conselho Deliberativo elegerá, dentre os seus membros, na
  primeira reunião que realizar após cada renovação de seus membros, um
@@ -234,9 +235,10 @@ Capítulo V
 ----------
 
 Art. 16º - A Diretoria é composta por 7 (sete) Associados Plenos ou Efetivos
-eleitos pela Assembléia Geral para um mandato de 2 (dois) anos, exceto no
-primeiro exercício, conforme disposto no Capítulo IX, "Das Disposições Gerais e
-Transitórias".
+eleitos pela Assembléia Geral para um mandato de 2 (dois) anos prorrogados
+automaticamente até o registro da ata empossando os novos diretores eleitos em
+assembléia; exceto no primeiro exercício, conforme disposto no Capítulo IX,
+"Das Disposições Gerais e Transitórias".
 
 Art. 17º - Compete à Diretoria planejar e realizar as atividades de entidade de
 acordo com seus objetivos e programas, além do cumprimento das
