@@ -254,49 +254,31 @@ determinadas pela Assembléia Geral ou pelo Conselho Deliberativo.
 Art. 18º - A Diretoria é constituída por:
 
 a. Diretor Presidente;
-b. Diretor Vice-Presidente;
-c. Diretor Financeiro;
-d. Diretor Administrativo;
-e. Três Diretores de área, cujas designações e atribuições serão definidas pelo
-   Conselho Deliberativo.
+b. Diretor Financeiro;
+c. Diretor de Tecnologia;
+d. Diretor de Marketing.
 
 Art. 19º - Compete ao Diretor Presidente à representação em juízo e fora dele,
 bem como presidir as reuniões da Diretoria, assinar cheques em conjunto com o
 Diretor Financeiro, além das restantes atribuições que estatutariamente lhe
 estão conferido.
 
-Art. 20º - Compete ao Diretor Vice-Presidente colaborar com a Presidência em
-suas atribuições, bem como substituir o Diretor Presidente em suas ausências e
-impedimentos.
-
-Art. 21º - Compete ao Diretor Financeiro organizar e dirigir os trabalhos da
+Art. 20º - Compete ao Diretor Financeiro organizar e dirigir os trabalhos da
 tesouraria, tendo a seu cargo o arquivo de documentos contábeis, arrecadação de
-fundos e controle de despesas, bem como assinar cheques em conjunto com o
-Diretor Presidente.
+fundos e controle de despesas, bem como assinar cheques, efetuar movimentações
+financeiras e pagamentos. Cabe ao Diretor Financeiro substituir o Diretor
+Presidente em suas ausências e impedimentos.
 
-Art. 22º - Compete ao Diretor Administrativo organizar e dirigir os trabalhos
-da secretaria, tendo a seu cargo o arquivo dos livros da associação, manter em
-dia o registro de associados, atas das reuniões e administração da sede social,
-bem como substituir o Diretor Vice-Presidente em suas ausências e impedimentos.
+Art. 21º - Compete ao Diretor de Tecnologia administrar, executar e coordenar as atividades relacionadas aos recursos tecnológicos necessários para dar suporte às atividades da Associação Python Brasil;
 
-Art. 23º - Compete aos diretores de área o planejamento, a coordenação e a
-execução das tarefas e atividades relacionadas com as suas áreas de atuação,
-após aprovação da Diretoria, e preparar o regulamento de cada área, quando for
-apropriado, bem como substituir, em seus impedimentos, os demais diretores.
+Art. 22º - Compete ao Diretor de Marketing coordenar as atividades de promoção e divulgação da Linguagem Python e tecnologias relacionadas bem como da Associação Python Brasil. Compete ao Diretor de Marketing escolher e apoiar a organização de eventos que promovam a Linguagem Python e tecnologias relacionadas.
 
- § único: os diretores de área poderão realizar permuta de cargos entre si,
- desde que por aprovação da maioria da Diretoria.
-
-Art. 24º - Os cheques e demais documentos contábeis necessitarão da assinatura
-conjunta do Diretor Presidente, do Diretor Financeiro, ou dos diretores que os
-substituírem em seus impedimentos.
-
-Art. 25º - O quorum mínimo para deliberações da Diretoria é de 3 (três)
+Art. 23º - O quorum mínimo para deliberações da Diretoria é de 3 (três)
 membros. As deliberações deverão se dar por maioria simples dos presentes,
 cabendo ao Diretor Presidente em exercício o voto de desempate, se houver
 necessidade.
 
-Art. 26º - A Diretoria pode contratar e demitir funcionários, bem como serviços
+Art. 24º - A Diretoria pode contratar e demitir funcionários, bem como serviços
 de terceiros, pessoas físicas ou jurídicas, assinar convênios e contratos e
 criar quaisquer instâncias de funcionamento da Associação, desde que não
 colidam com as disposições destes estatutos.
@@ -305,7 +287,7 @@ colidam com as disposições destes estatutos.
 Capítulo VI
 -----------
 
-Art. 27º - O Conselho Fiscal será constituído por 3 (três) membros titulares e
+Art. 25º - O Conselho Fiscal será constituído por 3 (três) membros titulares e
 2 (dois) suplentes eleitos individualmente pela Assembléia Geral, com mandato
 concomitante ao da Diretoria.
 
@@ -317,10 +299,10 @@ concomitante ao da Diretoria.
  convocará suas reuniões, e um Secretário, que fará a guarda dos livros e das
  atas das reuniões.
 
-Art. 28º - O Conselho Fiscal reunir-se-á, ordinariamente, por convocação de seu
+Art. 26º - O Conselho Fiscal reunir-se-á, ordinariamente, por convocação de seu
 Presidente e, extraordinariamente, quando for convocado pela Diretoria.
 
-Art. 29º - Compete ao Conselho Fiscal:
+Art. 27º - Compete ao Conselho Fiscal:
 
 a. dar parecer e aprovar o relatório, o balanço e as contas anuais da
    Diretoria;
@@ -332,7 +314,7 @@ c. dar parecer sobre os atos financeiros a serem apresentados ao Conselho
 Capítulo VII
 ------------
 
-Art. 30º - O Conselho Consultivo será composto por pessoas com notório saber em
+Art. 28º - O Conselho Consultivo será composto por pessoas com notório saber em
 Ciência da Computação ou Engenharia de Software, ou histórico de contribuições
 relevantes ao aperfeiçoamento, aplicação e divulgação da linguagem Python ou
 produtos desenvolvidos com ela.
@@ -341,10 +323,10 @@ produtos desenvolvidos com ela.
  cada 2 (dois) anos, sempre que uma nova Diretoria iniciar o seu mandato,
  através de recomendação da Diretoria ao Conselho Deliberativo.
 
-Art. 31º - Candidatos a membro do Conselho Consultivo podem ser indicados por
+Art. 29º - Candidatos a membro do Conselho Consultivo podem ser indicados por
 qualquer Associado Efetivo ou Pleno ao Conselho Deliberativo.
 
-Art. 32º - Compete ao Conselho Consultivo:
+Art. 30º - Compete ao Conselho Consultivo:
 
 a. acompanhar a evolução da linguagem Python e suas aplicações no mercado e no
    meio acadêmico;
@@ -356,10 +338,10 @@ c. propor ações para que a Associação Python Brasil continue, em longo prazo
 Capítulo VIII
 -------------
 
-Art. 33º - A eleição da Diretoria e do Conselho Fiscal dar-se-á a cada dois
+Art. 31º - A eleição da Diretoria e do Conselho Fiscal dar-se-á a cada dois
 anos.
 
-Art. 34º - A eleição para renovação parcial do Conselho Deliberativo dar-se-á
+Art. 32º - A eleição para renovação parcial do Conselho Deliberativo dar-se-á
 anualmente.
 
  § único: nos anos em que houver eleição para a Diretoria, será renovado 1/3
@@ -368,7 +350,7 @@ anualmente.
  Diretoria, serão renovados 2/3 (dois terços) do Conselho Deliberativo, sendo
  eleitos 6 (seis) conselheiros titulares e 2 (dois) suplentes.
 
-Art. 35º - Os processos eleitorais para renovar a Diretoria, o Conselho
+Art. 33º - Os processos eleitorais para renovar a Diretoria, o Conselho
 Deliberativo e o Conselho Fiscal, através da Assembléia Geral, deverão ser
 convocados pela Diretoria com a antecedência mínima de 30 (trinta) dias.
 
@@ -384,7 +366,7 @@ convocados pela Diretoria com a antecedência mínima de 30 (trinta) dias.
  Conselho Fiscal, mas poderá ser eleito para a Diretoria e o Conselho
  Deliberativo ou para o Conselho Fiscal e o Conselho Deliberativo.
 
-Art. 36º - A eleição da Diretoria dar-se-á por chapas.
+Art. 34º - A eleição da Diretoria dar-se-á por chapas.
 
  § primeiro: para poder concorrer, cada chapa deverá indicar nomes para todos
  os cargos da diretoria, a saber: Diretor Presidente, Diretor Vice-Presidente,
@@ -395,7 +377,7 @@ Art. 36º - A eleição da Diretoria dar-se-á por chapas.
 
  § terceiro: em caso de empate, proceder-se-á a nova eleição.
 
-Art. 37º - A eleição dos Conselhos Deliberativo e Fiscal dar-se-á por
+Art. 35º - A eleição dos Conselhos Deliberativo e Fiscal dar-se-á por
 indivíduos.
 
  § primeiro: cada membro da Assembléia poderá votar em um nome para cada vaga
@@ -440,12 +422,12 @@ indivíduos.
 Capítulo IX
 -----------
 
-Art. 38º - Os associados não respondem solidária nem subsidiariamente pelas
+Art. 36º - Os associados não respondem solidária nem subsidiariamente pelas
 obrigações da Associação, assim como ela não é responsável por atos praticados
 ou por obrigações contraídas por seus membros, salvo quando por deliberação de
 seus órgãos de direção.
 
-Art. 39º - A dissolução da Associação, devidamente justificada, só poderá ser
+Art. 37º - A dissolução da Associação, devidamente justificada, só poderá ser
 deliberada em Assembléia Geral Extraordinária, especialmente convocada para
 esse fim pelo Conselho Deliberativo ou pela Diretoria, com um quorum de 2/3
 (dois terços) dos associados com direito a voto, em primeira convocação, e com
@@ -461,7 +443,7 @@ convocação, um dia depois.
  no Conselho Nacional de Serviço Social, conforme Assembléia Geral
  Extraordinária de dissolução.
 
-Art. 40º - As receitas da Associação Python Brasil são basicamente,
+Art. 38º - As receitas da Associação Python Brasil são basicamente,
 constituídas por:
 
 a. contribuições dos associados;
@@ -473,20 +455,20 @@ f. realização de convênios;
 g. receita proveniente de publicidade em seus veículos de comunicação;
 h. outros meios que a Diretoria venha a criar, com a aprovação do Conselho Deliberativo.
 
-Art. 41º - O exercício financeiro encerrar-se-á em 31 de dezembro de cada ano.
+Art. 39º - O exercício financeiro encerrar-se-á em 31 de dezembro de cada ano.
 
  § único: o relatório da Diretoria, o balanço anual e a documentação necessária
  devem ser apresentados pela Diretoria, em março de cada ano.
 
-Art. 42º - O exercício de cargos eleitos não será remunerado a qualquer título.
+Art. 40º - O exercício de cargos eleitos não será remunerado a qualquer título.
 
-Art. 43º - Os casos omissos ou contraditórios do estatuto serão dirimidos pelo
+Art. 41º - Os casos omissos ou contraditórios do estatuto serão dirimidos pelo
 Conselho Deliberativo.
 
-Art. 44º - A convocação dos órgãos deliberativos poderá ser feita por 1/5 (um
+Art. 42º - A convocação dos órgãos deliberativos poderá ser feita por 1/5 (um
 quinto) dos Associados com direito a voto.
 
-Art. 45º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
+Art. 43º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
 (nove) conselheiros e 3 (três) suplentes para o Conselho Deliberativo e 3
 (três) conselheiros e 2 (dois) suplentes para o Conselho Fiscal, com os
 seguintes mandatos reduzidos:
@@ -498,7 +480,7 @@ b. Conselho Deliberativo: 1/3 (um terço) com mandato até a Assembléia Geral
    Geral prevista para o segundo semestre de 2008. Os eleitos melhor classificados
    na lista de votação terão o mandato mais longo.
 
-Art. 46º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
+Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
 ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas
 por maioria simples dos votos dos presentes.
 
