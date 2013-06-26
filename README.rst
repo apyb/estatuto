@@ -188,11 +188,10 @@ d. é permitido o voto por procuração, limitado a uma procuração por membro
 Capítulo IV
 -----------
 
-Art. 14º - O Conselho Deliberativo será constituído por 9 (nove) membros
-titulares e 3 (três) suplentes, eleitos individualmente pela Assembléia Geral,
-sendo composto obrigatoriamente por 1/3 (um terço, ou seja, três titulares e um
-suplente) de Associados Plenos, e 2/3 (dois terços) de Associados Efetivos ou
-Plenos, conforme disposição abaixo, Capítulo VII, "Das eleições".
+Art. 14º - O Conselho Deliberativo será constituído por 3 (três) membros
+titulares e 1 (um) suplente, eleitos individualmente pela Assembléia Geral,
+sendo composto obrigatoriamente por Associados Plenos ou Efetivos, conforme
+disposição abaixo, Capítulo VII, "Das eleições".
 
  § primeiro: o mandato dos membros do Conselho Deliberativo será de 2 (dois)
  anos prorrogados automaticamente até o registro da ata empossando os
@@ -201,12 +200,12 @@ Plenos, conforme disposição abaixo, Capítulo VII, "Das eleições".
 
  § segundo: o Conselho Deliberativo elegerá, dentre os seus membros, na
  primeira reunião que realizar após cada renovação de seus membros, um
- Presidente, um Primeiro-Secretário e um Segundo-Secretário, que convocarão e
- dirigirão as suas reuniões. Na falta de titulares, os conselheiros elegerão os
- membros da Mesa para essa sessão de trabalho.
+ Presidente e um Primeiro-Secretário que convocarão e dirigirão as suas
+ reuniões. Na falta de titulares, os conselheiros elegerão os membros da Mesa
+ para essa sessão de trabalho.
 
  § terceiro: o Conselho Deliberativo será convocado por seu Presidente, por
- convocação direta de 1/3 de seus membros ou pela Diretoria da Associação
+ convocação direta de um de seus membros ou pela Diretoria da Associação
  Python Brasil, com um mínimo de 7 (sete) dias de antecedência, através de
  telegrama, comunicação eletrônica ou pessoal. O quorum para deliberações é de
  7 (sete) conselheiros em primeira convocação ou 3 (três) conselheiros em
@@ -288,7 +287,7 @@ Capítulo VI
 -----------
 
 Art. 25º - O Conselho Fiscal será constituído por 3 (três) membros titulares e
-2 (dois) suplentes eleitos individualmente pela Assembléia Geral, com mandato
+1 (um) suplente eleito individualmente pela Assembléia Geral, com mandato
 concomitante ao da Diretoria.
 
  § primeiro: nenhum Associado poderá ocupar simultaneamente cargo no Conselho
@@ -338,19 +337,10 @@ c. propor ações para que a Associação Python Brasil continue, em longo prazo
 Capítulo VIII
 -------------
 
-Art. 31º - A eleição da Diretoria e do Conselho Fiscal dar-se-á a cada dois
-anos.
+Art. 31º - A eleição da Diretoria, do Conselho Deliberativo e do Conselho
+Fiscal dar-se-á a cada dois anos.
 
-Art. 32º - A eleição para renovação parcial do Conselho Deliberativo dar-se-á
-anualmente.
-
- § único: nos anos em que houver eleição para a Diretoria, será renovado 1/3
- (um terço) do Conselho Deliberativo, sendo eleitos 3 (três) conselheiros
- titulares e 1 (um) suplente; nos anos em que não houver eleição para a
- Diretoria, serão renovados 2/3 (dois terços) do Conselho Deliberativo, sendo
- eleitos 6 (seis) conselheiros titulares e 2 (dois) suplentes.
-
-Art. 33º - Os processos eleitorais para renovar a Diretoria, o Conselho
+Art. 32º - Os processos eleitorais para renovar a Diretoria, o Conselho
 Deliberativo e o Conselho Fiscal, através da Assembléia Geral, deverão ser
 convocados pela Diretoria com a antecedência mínima de 30 (trinta) dias.
 
@@ -366,7 +356,7 @@ convocados pela Diretoria com a antecedência mínima de 30 (trinta) dias.
  Conselho Fiscal, mas poderá ser eleito para a Diretoria e o Conselho
  Deliberativo ou para o Conselho Fiscal e o Conselho Deliberativo.
 
-Art. 34º - A eleição da Diretoria dar-se-á por chapas.
+Art. 33º - A eleição da Diretoria dar-se-á por chapas.
 
  § primeiro: para poder concorrer, cada chapa deverá indicar nomes para todos
  os cargos da diretoria, a saber: Diretor Presidente, Diretor Vice-Presidente,
@@ -377,7 +367,7 @@ Art. 34º - A eleição da Diretoria dar-se-á por chapas.
 
  § terceiro: em caso de empate, proceder-se-á a nova eleição.
 
-Art. 35º - A eleição dos Conselhos Deliberativo e Fiscal dar-se-á por
+Art. 34º - A eleição dos Conselhos Deliberativo e Fiscal dar-se-á por
 indivíduos.
 
  § primeiro: cada membro da Assembléia poderá votar em um nome para cada vaga
@@ -385,34 +375,7 @@ indivíduos.
  suplências, podendo incluir nomes não relacionados junto à Mesa, desde que
  Associados Plenos ou Efetivos, em pleno gozo de seus direitos.
 
- § segundo: para preenchimento das vagas do Conselho Deliberativo, mantendo a
- proporção de 1/3 (um terço) de conselheiros Associados Plenos, todos os
- candidatos que receberam votos serão colocados em uma lista por ordem
- decrescente de votos. Nas eleições em que 1/3 (um terço) das vagas estiverem
- em disputa, o Associado Pleno mais votado será eleito para 1 (uma) das 3
- (três) vagas titulares. Nas eleições em que 2/3 (dois terços) das vagas
- estiverem em disputa, os Associados Plenos mais votados serão eleitos para 2
- (duas) das 6 (seis) vagas titulares. Os Associados Plenos que forem eleitos
- serão retirados da lista, e as vagas titulares remanescentes serão preenchidas
- pelos Associados Plenos ou Efetivos mais votados, segundo a ordem decrescente
- de votos recebidos.
-
- § terceiro: nas eleições em que 1/3 (um terço) das vagas do Conselho
- Deliberativo estiverem em disputa, a suplência será preenchida pelo Associado
- Pleno ou Efetivo mais votado que não tenha sido eleito para uma das vagas
- titulares. Nas eleições em que 2/3 (dois terços) das vagas estiverem em
- disputa, a primeira suplência será preenchida pelo Associado Pleno mais votado
- que não tenha sido eleito para uma das vagas titulares, e a segunda suplência
- será preenchida pelo Associado Pleno ou Efetivo mais votado que não tenha sido
- eleito para uma das vagas titulares ou para a primeira suplência.
-
- § quarto: para preenchimento das 3 (três) vagas e 2 (duas) suplências do
- Conselho Fiscal, todos os candidatos que receberam votos serão colocados em
- uma lista por ordem decrescente de votos. As vagas titulares e suplências
- serão preenchidas pelos Associados Plenos ou Efetivos mais votados, segundo a
- ordem decrescente de votos recebidos.
-
- § quinto: em caso de empate nas votações para o Conselho Deliberativo ou o
+ § segundo: em caso de empate nas votações para o Conselho Deliberativo ou o
  Conselho Fiscal, terá prioridade o candidato que seja Associado Pleno ou
  Efetivo pelo período ininterrupto mais longo, como comprovado pelos registros
  da Associação Python Brasil. Na persistência do empate, submeter-se-ão os
@@ -422,12 +385,12 @@ indivíduos.
 Capítulo IX
 -----------
 
-Art. 36º - Os associados não respondem solidária nem subsidiariamente pelas
+Art. 35º - Os associados não respondem solidária nem subsidiariamente pelas
 obrigações da Associação, assim como ela não é responsável por atos praticados
 ou por obrigações contraídas por seus membros, salvo quando por deliberação de
 seus órgãos de direção.
 
-Art. 37º - A dissolução da Associação, devidamente justificada, só poderá ser
+Art. 36º - A dissolução da Associação, devidamente justificada, só poderá ser
 deliberada em Assembléia Geral Extraordinária, especialmente convocada para
 esse fim pelo Conselho Deliberativo ou pela Diretoria, com um quorum de 2/3
 (dois terços) dos associados com direito a voto, em primeira convocação, e com
@@ -443,7 +406,7 @@ convocação, um dia depois.
  no Conselho Nacional de Serviço Social, conforme Assembléia Geral
  Extraordinária de dissolução.
 
-Art. 38º - As receitas da Associação Python Brasil são basicamente,
+Art. 37º - As receitas da Associação Python Brasil são basicamente,
 constituídas por:
 
 a. contribuições dos associados;
@@ -455,20 +418,20 @@ f. realização de convênios;
 g. receita proveniente de publicidade em seus veículos de comunicação;
 h. outros meios que a Diretoria venha a criar, com a aprovação do Conselho Deliberativo.
 
-Art. 39º - O exercício financeiro encerrar-se-á em 31 de dezembro de cada ano.
+Art. 38º - O exercício financeiro encerrar-se-á em 31 de dezembro de cada ano.
 
  § único: o relatório da Diretoria, o balanço anual e a documentação necessária
  devem ser apresentados pela Diretoria, em março de cada ano.
 
-Art. 40º - O exercício de cargos eleitos não será remunerado a qualquer título.
+Art. 39º - O exercício de cargos eleitos não será remunerado a qualquer título.
 
-Art. 41º - Os casos omissos ou contraditórios do estatuto serão dirimidos pelo
+Art. 40º - Os casos omissos ou contraditórios do estatuto serão dirimidos pelo
 Conselho Deliberativo.
 
-Art. 42º - A convocação dos órgãos deliberativos poderá ser feita por 1/5 (um
+Art. 41º - A convocação dos órgãos deliberativos poderá ser feita por 1/5 (um
 quinto) dos Associados com direito a voto.
 
-Art. 43º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
+Art. 42º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
 (nove) conselheiros e 3 (três) suplentes para o Conselho Deliberativo e 3
 (três) conselheiros e 2 (dois) suplentes para o Conselho Fiscal, com os
 seguintes mandatos reduzidos:
@@ -476,11 +439,10 @@ seguintes mandatos reduzidos:
 a. Diretoria e Conselho Fiscal: mandato até a Assembléia Geral prevista para
    agosto de 2007;
 b. Conselho Deliberativo: 1/3 (um terço) com mandato até a Assembléia Geral
-   prevista para agosto de 2007, e 2/3 (dois terços) com mandato até a Assembléia
-   Geral prevista para o segundo semestre de 2008. Os eleitos melhor classificados
-   na lista de votação terão o mandato mais longo.
+   prevista para agosto de 2007, e 2/3 (dois terços) com mandato até a
+   Assembléia Geral prevista para o segundo semestre de 2008. Os eleitos melhor
+   classificados na lista de votação terão o mandato mais longo.
 
-Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
+Art. 43º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
 ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas
 por maioria simples dos votos dos presentes.
-
