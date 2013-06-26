@@ -268,9 +268,15 @@ fundos e controle de despesas, bem como assinar cheques, efetuar movimentações
 financeiras e pagamentos. Cabe ao Diretor Financeiro substituir o Diretor
 Presidente em suas ausências e impedimentos.
 
-Art. 21º - Compete ao Diretor de Tecnologia administrar, executar e coordenar as atividades relacionadas aos recursos tecnológicos necessários para dar suporte às atividades da Associação Python Brasil;
+Art. 21º - Compete ao Diretor de Tecnologia administrar, executar e coordenar
+as atividades relacionadas aos recursos tecnológicos necessários para dar
+suporte às atividades da Associação Python Brasil;
 
-Art. 22º - Compete ao Diretor de Marketing coordenar as atividades de promoção e divulgação da Linguagem Python e tecnologias relacionadas bem como da Associação Python Brasil. Compete ao Diretor de Marketing escolher e apoiar a organização de eventos que promovam a Linguagem Python e tecnologias relacionadas.
+Art. 22º - Compete ao Diretor de Marketing coordenar as atividades de promoção
+e divulgação da Linguagem Python e tecnologias relacionadas bem como da
+Associação Python Brasil. Compete ao Diretor de Marketing escolher e apoiar a
+organização de eventos que promovam a Linguagem Python e tecnologias
+relacionadas.
 
 Art. 23º - Os documentos contábeis necessitarão da assinatura do Diretor
 Presidente ou do Diretor Financeiro;
@@ -449,6 +455,4 @@ b. Conselho Deliberativo: 1/3 (um terço) com mandato até a Assembléia Geral
    Assembléia Geral prevista para o segundo semestre de 2008. Os eleitos melhor
    classificados na lista de votação terão o mandato mais longo.
 
-Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
-ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas
-por maioria simples dos votos dos presentes.
+Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas por maioria simples dos votos dos presentes.
