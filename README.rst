@@ -52,7 +52,7 @@ a. Plenos;
 b. Efetivos;
 c. Estudantes;
 d. Honorários;
-e. Institucional.
+e. Institucionais.
 
  § primeiro: são Associados Plenos as pessoas físicas que tenham completado
  cinco anos como Associados Efetivos ou tenham assinado a Ata da Assembléia
