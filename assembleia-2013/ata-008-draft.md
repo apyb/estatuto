@@ -92,3 +92,11 @@ Apresentados os candidatos para os conselhos Deliberativo e Fiscal, bem como seu
 
 <!-- Final -->
 Ao término da eleição o presidente Osvaldo Santana Neto agradeceu os participantes, e declarou encerrada a Assembléia.
+
+
+Osvaldo Santana Neto
+Presidente
+
+
+Ramiro Batista da Luz
+Secretário
