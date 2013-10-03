@@ -51,7 +51,8 @@ Art. 4º - As categorias de Associados são:
 a. Plenos;
 b. Efetivos;
 c. Estudantes;
-d. Honorários.
+d. Honorários;
+e. Institucionais.
 
  § primeiro: são Associados Plenos as pessoas físicas que tenham completado
  cinco anos como Associados Efetivos ou tenham assinado a Ata da Assembléia
@@ -76,6 +77,11 @@ d. Honorários.
  Brasil, recebam tal designação do Conselho Deliberativo, ouvida a
  Diretoria.
 
+ § quinto: são Associados Institucionais as pessoas jurídicas que tenham sua
+ proposta de associação aprovada pela Diretoria e estejam quites com a taxa de
+ inscrição e demais contribuições, na forma indicada pela Diretoria e fixada
+ pelo Conselho Deliberativo.
+ 
 Art. 5º - São direitos de todos os Associados pessoas físicas: ter prioridade e
 desconto na inscrição em atividades patrocinadas ou organizadas pela Associação
 Python Brasil; ser informado de tais atividades e de outros benefícios que
