@@ -223,8 +223,8 @@ d. fixar anuidades e outras contribuições, por proposta da Diretoria; as
 e. apreciar e aprovar os relatórios da Diretoria e os pareceres do Conselho
    Fiscal;
 f. conceder, por proposta da Diretoria, títulos de associados honorários ou
-   outras honrarias que a Associação venha a criar, podendo delegar à Diretoria,
-   por regulamento especifico, esta atribuição;
+   outras honrarias que a Associação venha a criar, podendo delegar à
+   Diretoria, por regulamento especifico, esta atribuição;
 g. aprovar as indicações e renovar os mandatos de membros do Conselho
    Consultivo;
 h. solicitar pareceres e recomendar estudos e projetos ao Conselho Consultivo.
@@ -422,7 +422,8 @@ d. edição e venda de publicações e livros;
 e. realização de eventos, cursos e seminários;
 f. realização de convênios;
 g. receita proveniente de publicidade em seus veículos de comunicação;
-h. outros meios que a Diretoria venha a criar, com a aprovação do Conselho Deliberativo.
+h. outros meios que a Diretoria venha a criar, com a aprovação do Conselho
+   Deliberativo.
 
 Art. 39º - O exercício financeiro encerrar-se-á em 31 de dezembro de cada ano.
 
