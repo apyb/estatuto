@@ -1,8 +1,8 @@
 Estatuto da Associação Python Brasil
 ====================================
 
-Capítulo I
-----------
+Capítulo I - Da Associação
+--------------------------
 
 Art. 1º - A Associação Python Brasil, fundada em 22 de junho de 2007, é uma
 associação civil de direito privado, sem fins lucrativos, que se regerá pelos
@@ -36,8 +36,8 @@ f. assegurar a proteção e o bom uso das marcas relacionadas à linguagem Pytho
  recursos exclusivamente para a manutenção e desenvolvimento de seus objetivos.
 
 
-Capítulo II
------------
+Capítulo II - Dos Associados
+----------------------------
 
 Art. 3º - A Associação será constituída por número ilimitado de associados,
 pessoas físicas ou jurídicas, sem distinção de nacionalidade ou qualquer outra
@@ -51,8 +51,7 @@ Art. 4º - As categorias de Associados são:
 a. Plenos;
 b. Efetivos;
 c. Estudantes;
-d. Honorários;
-e. Institucional.
+d. Honorários.
 
  § primeiro: são Associados Plenos as pessoas físicas que tenham completado
  cinco anos como Associados Efetivos ou tenham assinado a Ata da Assembléia
@@ -77,11 +76,6 @@ e. Institucional.
  Brasil, recebam tal designação do Conselho Deliberativo, ouvida a
  Diretoria.
 
- § quinto: são Associados Institucionais as pessoas jurídicas que tenham sua
- proposta de associação aprovada pela Diretoria e estejam quites com a taxa de
- inscrição e demais contribuições, na forma indicada pela Diretoria e fixada
- pelo Conselho Deliberativo.
- 
 Art. 5º - São direitos de todos os Associados pessoas físicas: ter prioridade e
 desconto na inscrição em atividades patrocinadas ou organizadas pela Associação
 Python Brasil; ser informado de tais atividades e de outros benefícios que
@@ -134,8 +128,8 @@ d. Conselho Fiscal;
 e. Conselho Consultivo.
 
 
-Capítulo III
-------------
+Capítulo III - Da Assembléia
+----------------------------
 
 Art. 10º - A Assembléia Geral é a reunião dos Associados Plenos e Efetivos, com
 direito a voto e em dia com as suas contribuições. É o principal órgão de poder
@@ -185,13 +179,13 @@ d. é permitido o voto por procuração, limitado a uma procuração por membro
  da direção da Associação Python Brasil.
 
 
-Capítulo IV
------------
+Capítulo IV - Do Conselho Deliberativo
+--------------------------------------
 
 Art. 14º - O Conselho Deliberativo será constituído por 3 (três) membros
 titulares e 1 (um) suplente, eleitos individualmente pela Assembléia Geral,
 sendo composto obrigatoriamente por Associados Plenos ou Efetivos, conforme
-disposição abaixo, Capítulo VII, "Das eleições".
+disposição abaixo, Capítulo VIII, "Das eleições".
 
  § primeiro: o mandato dos membros do Conselho Deliberativo será de 2 (dois)
  anos prorrogados automaticamente até o registro da ata empossando os
@@ -208,7 +202,7 @@ disposição abaixo, Capítulo VII, "Das eleições".
  convocação direta de um de seus membros ou pela Diretoria da Associação
  Python Brasil, com um mínimo de 7 (sete) dias de antecedência, através de
  telegrama, comunicação eletrônica ou pessoal. O quorum para deliberações é de
- 7 (sete) conselheiros em primeira convocação ou 3 (três) conselheiros em
+ 3 (três) conselheiros em primeira convocação ou 2 (dois) conselheiros em
  segunda convocação, 30 (trinta) minutos depois, quando podem assumir os
  respectivos suplentes de cada terço do Conselho.
 
@@ -236,10 +230,10 @@ g. aprovar as indicações e renovar os mandatos de membros do Conselho
 h. solicitar pareceres e recomendar estudos e projetos ao Conselho Consultivo.
 
 
-Capítulo V
-----------
+Capítulo V - Da Diretoria
+-------------------------
 
-Art. 16º - A Diretoria é composta por 7 (sete) Associados Plenos ou Efetivos
+Art. 16º - A Diretoria é composta por 4 (quatro) Associados Plenos ou Efetivos
 eleitos pela Assembléia Geral para um mandato de 2 (dois) anos prorrogados
 automaticamente até o registro da ata empossando os novos diretores eleitos em
 assembléia; exceto no primeiro exercício, conforme disposto no Capítulo IX,
@@ -282,7 +276,8 @@ Art. 23º - Os documentos contábeis necessitarão da assinatura do Diretor
 Presidente ou do Diretor Financeiro;
 
  § único: no caso da ausência ou impedimento do Diretor Presidente e do Diretor
- Financeiro os documentos poderão ser assinados por qualquer Diretor;
+ Financeiro os documentos poderão ser assinados por qualquer integrante da
+ diretoria;
 
 Art. 24º - O quorum mínimo para deliberações da Diretoria é de 3 (três)
 membros. As deliberações deverão se dar por maioria simples dos presentes,
@@ -295,8 +290,8 @@ criar quaisquer instâncias de funcionamento da Associação, desde que não
 colidam com as disposições destes estatutos.
 
 
-Capítulo VI
------------
+Capítulo VI - Do Conselho Fiscal
+--------------------------------
 
 Art. 26º - O Conselho Fiscal será constituído por 3 (três) membros titulares e
 1 (um) suplente eleito individualmente pela Assembléia Geral, com mandato
@@ -322,8 +317,8 @@ c. dar parecer sobre os atos financeiros a serem apresentados ao Conselho
    Deliberativo.
 
 
-Capítulo VII
-------------
+Capítulo VII - Do Conselho Consultivo
+-------------------------------------
 
 Art. 29º - O Conselho Consultivo será composto por pessoas com notório saber em
 Ciência da Computação ou Engenharia de Software, ou histórico de contribuições
@@ -346,8 +341,8 @@ c. propor ações para que a Associação Python Brasil continue, em longo prazo
    cumprindo os objetivos delineados no Capítulo I deste estatuto.
 
 
-Capítulo VIII
--------------
+Capítulo VIII - Das Eleições
+----------------------------
 
 Art. 32º - A eleição da Diretoria, do Conselho Deliberativo e do Conselho
 Fiscal dar-se-á a cada dois anos.
@@ -371,9 +366,8 @@ convocados pela Diretoria com a antecedência mínima de 30 (trinta) dias.
 Art. 34º - A eleição da Diretoria dar-se-á por chapas.
 
  § primeiro: para poder concorrer, cada chapa deverá indicar nomes para todos
- os cargos da diretoria, a saber: Diretor Presidente, Diretor Vice-Presidente,
- Diretor Financeiro e Diretor Administrativo e 3 (três) Diretores de Área,
- juntamente com a designação de suas áreas.
+ os cargos da diretoria, a saber: Diretor Presidente, Diretor Financeiro,
+ Diretor de Tecnologia e Diretor de Marketing.
 
  § segundo: será eleita a chapa que tiver o maior número de votos.
 
@@ -394,8 +388,8 @@ indivíduos.
  candidatos empatados à nova votação.
 
 
-Capítulo IX
------------
+Capítulo IX - Das Disposições Gerais e Transitórias
+---------------------------------------------------
 
 Art. 36º - Os associados não respondem solidária nem subsidiariamente pelas
 obrigações da Associação, assim como ela não é responsável por atos praticados
@@ -455,4 +449,6 @@ b. Conselho Deliberativo: 1/3 (um terço) com mandato até a Assembléia Geral
    Assembléia Geral prevista para o segundo semestre de 2008. Os eleitos melhor
    classificados na lista de votação terão o mandato mais longo.
 
-Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas por maioria simples dos votos dos presentes.
+Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
+ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas
+por maioria simples dos votos dos presentes.
