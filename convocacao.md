@@ -1,5 +1,7 @@
 # Convocação para a Assembléia Geral 2013
 
+bla bla bla 
+
 Assembleia Geral da Associação Python Brasil onde serão apresentadas
 modificações no estatuto da Associação Python Brasil e onde serão realizadas
 eleições para a Diretoria da Associação bem como a renovação dos Conselhos
