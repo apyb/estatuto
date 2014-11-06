@@ -1,18 +1,15 @@
-# Convocação para a Assembléia Geral 2013
+# Convocação para a Assembléia Geral 2014
 
-Assembleia Geral da Associação Python Brasil onde serão apresentadas
-modificações no estatuto da Associação Python Brasil e onde serão realizadas
-eleições para a Diretoria da Associação bem como a renovação dos Conselhos
-Deliberativo e Fiscal.
+Assembleia Geral da Associação Python Brasil.
 
 A Associação Python Brasil, através de seu Conselho Deliberativo, vem convidar
 os seus associados e interessados a participar da sua Assembleia Geral que
-acontecerá durante a nona edição do encontro brasileiro da comunidade Python,
-PythonBrasil[9].
+acontecerá durante a décima edição do encontro brasileiro da comunidade Python,
+PythonBrasil[10].
 
 Essa assembleia visa a apresentação da situação atual da Associação Python
 Brasil, definição de ações para o futuro, sugestões para mudanças no estatuto
-da Associação e a eleições para renovação dos Conselhos Deliberativo e Fiscal.
+da Associação.
 
 ## Qualificação dos Participantes
 
@@ -34,11 +31,11 @@ são:
 
 ## Data e Hora
 
-Quarta-Feira, dia 2 de outubro de 2013, 19:00.
+Quinta-Feira, dia 6 de novembro de 2014, 19:00.
 
 ## Local da Assembléia
 
 ```
-PythonBrasil[9] - Centro de Convenções Ulysses Guimarães
-SDC - Eixo Monumental, Brasília (DF), Brasil.
+PythonBrasil[10] - Hotel Armação
+Porto de Galinhas, Recife (PE), Brasil.
 ```
