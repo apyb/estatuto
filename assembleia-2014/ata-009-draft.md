@@ -10,7 +10,7 @@ em primeira convocação e dezenove horas e trinta minutos em segunda e última
 convocação, no auditório principal do Hotel Armação,
 onde se realizava a décima edição da conferência PythonBrasil, localizado
 na cidade de Porto de Galinhas, Ipojuca, Pernambuco, foi realizada a Assembléia Geral
-da Associação Python Brasil, tendo como pauta ...
+da Associação Python Brasil, tendo como pauta ..
 
 Marcel Pinheiro Caraciolo
 Presidente
