@@ -26,8 +26,8 @@ efetuar o pagamento da anuidade.
 As modalidades de associação disponíveis e os respectivos valores de anuidade
 são:
 
-- Profissional: R$ 40,00
-- Estudante: R$ 20,00
+- Profissional: R$ 64,00
+- Estudante: R$ 32,00
 
 ## Data e Hora
 
