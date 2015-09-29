@@ -7,10 +7,31 @@
 <!-- Standard abertura -->
 Ao sexto dia do mês de novembro do ano de dois mil e catorze, às dezenove horas
 em primeira convocação e dezenove horas e trinta minutos em segunda e última
-convocação, no auditório principal do Hotel Armação,
-onde se realizava a décima edição da conferência PythonBrasil, localizado
-na cidade de Porto de Galinhas, Ipojuca, Pernambuco, foi realizada a Assembléia Geral
-da Associação Python Brasil, tendo como pauta ..
+convocação, no auditório principal do Hotel Armação, onde se realizava a décima edição da conferência PythonBrasil, localizado
+na cidade de Porto de Galinhas, Ipojuca, Pernambuco, foi realizada a Assembléia Geral da Associação Python Brasil. Foi Eleito para a presidência da Mesa Diretora da Assembléia o atual presidente da Associação Python Brasil Marcel Pinheiro Caraciolo e como Secretário da mesa o atual diretor de marketing Filipe Ximenes.
+
+O presidente Marcel Caraciolo iniciou a assembléia comentando sobre as realizações do último ano onde foi realizado a construção do sistema online para gestão dos eventos da PythonBrasil. Este foi testado na PythonBrasil 2014, em Ipojuca, Pernambuco com a ajuda de participantes da comunidade Python. O presidente Marcel Caraciolo iniciou a discussão sobre melhorias do Sistema de Associados, isto é,  a substituição da tecnologia em Plone para uma nova tecnologia trazendo algumas opções à discussão como Django, próprio Plone ou sistema de gestão do Github.  Renato Oliveira citou sobre a possibilidade de extender o sistema usado para gerenciar o evento da PythonBRasil 2014 para outros eventos da comunidade.  A maioria presente votou em concordância da mudança, mas se decidiu a definir em futuras reuniões qual melhor tecnologia.  O membro Rudá comentou sobre a necessidade da troca dos servidores da Apyb, pois em 2014 tivemos problemas com backup das máquinas e serviços fora do ar devido ao pagamento dificultado pelos serviço de hospedagem. Foi definido em voto da maioria a troca do servidores para um outro servidor a se discutir como Digital Ocean, PythonAnywhere , etc.  A implantação das mudanças se dará após reuniões on-line com os membros da associação e o diretor de tecnologia Renato Oliveira.
+
+Foi apresentado sobre o andamento da transparência financeira para final de 2014, pois precisaria ainda de um levantamento de toda a contabilidade das contas pagas em 2014 dos custos variáveis e fixos da gestão de 2014, em especial ao evento da PythonBrasil 2014 realizado em Pernambuco.
+
+Foi apresentado por Marcel Caraciolo sobre a resolução das notas fiscais de 2013, onde incide ISS 4%, isso implica em ter que refazer a informação à prefeitura e calcular mensalmente o imposto. Tenho isso agendado para fazer dentro desse ano, e assim a gestão poder passar os valores já atualizados. Outro problema relatado pelo diretor financeiro Leonardo Rezende sobre a necessidade de acesso ao cartão de crédito para pagamentos internacionais em especial de serviços on-line  e a saída do atual gerente da conta da Associação Osvaldino, que irá  se aposentar.  Outro ponto levantado à todos foi o acesso à conta que durante o ano ficou bloqueada várias vezes devido a um problema no sistema de acesso on-line à conta que exigia ao diretor financeiro a necessidade de ligar para a agência e pedir uma nova senha.
+
+Marcel Caraciolo apresentou sobre a necessidade de em 2015 apresentar a contabilidade digital (sped contábil), exigida pela contabilidade e pela Receita. Outra questão foi a necessidade de realizar a alteração na receita federal o responsável legal pela Python. Lá consta ainda o Dorneles e tenho procuração válida até inicio de fevereiro/2015. Foi discutido que Marcel Caraciolo iria checar com a contabilidade para que na mesma gestão ou na próxima pudesse realizar a alteração.  Durante a apresentação foi levantado pontos por Eduardo se valia a pena de a sede da  Associação sair da cidade de Caxias do Sul e ir para São Paulo, já que ficaria mais próximo dos principais membros da ApyB e fácil gestão do endereço e contas.  Não se chegou em acordo com a maioria com a mudança para São Paulo, decidindo à principio ficar em Caxias do Sul, já que a Atualle, atual empresa responsável pela contabiliade já tem conhecimento das nuâncias e obrigações da Associação PythonBrasil.
+
+Marcel Caraciolo apresentou o número atual de  membros cadastrados em 2015 com 685 cadastrados, mais de 187 efetivos e mais de 105 estudantes. A discussão se extendeu em como melhorarmos ainda mais o apoio às comunidades locais. Foram listados alguns feitos realizados pela atual gestão como o apoio à Python Nordeste em 2014 e os eventos locais do PythonDay realizados em vários munícipios no Nordeste. Todos apoiaram a extensão do mesmo para o sudeste e fortalecimento na região Nordeste.
+
+Renato Oliveira apresentou dados sobre o atual ecossistema das plataformas usadas para hospedar o site da associação e wiki da Genomika e das necessidades de atualização dos servidores como Plone, etc.  Foi discutido qual melhor tecnologia para o site oficial e ficou definido entre Django e a versão do Plone mais novo. Rudá junto com Renato decidiram em conjunto agendar reunião on-line divulgado na lista de emails sobre os passos para realizar tais modificações.
+
+Marcel Caraciolo comentou sobre os detalhamentos de lançamentos financeiros em como serem melhorados e a possibilidade de mudança de endereço da Sede da Apyb. Maioria votou localmente em ainda permanecer em Caxias do Sul, visto já que a contabilidade local já conhece toda a operação da ApyB. 
+
+Ficou discutido também em como melhorar os documentos de gestão da ApyB, em especial as atas e detalhes financeiros. Finalmente o último tópico a discutir foi da possibilidade das datas da PythonBrasil poderem variar. Decidiu-se em maioria que a data seria de acordo com o calendário internacional e de acordo com as necessidades do comitê de organização do evento.
+
+Ao término da  assembléia o presidente Marcel Caraciolo agradeceu os participantes, e declarou encerrada a Assembléia.
+
+
+Marcel Pinheiro Caraciolo Presidente
+
+Felipe Ximenes Secretário 
 
 Marcel Pinheiro Caraciolo
 Presidente
