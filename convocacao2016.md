@@ -1,11 +1,11 @@
-# Convocação para a Assembléia Geral 2014
+# Convocação para a Assembléia Geral 2016
 
 Assembleia Geral da Associação Python Brasil.
 
 A Associação Python Brasil, através de seu Conselho Deliberativo, vem convidar
 os seus associados e interessados a participar da sua Assembleia Geral que
-acontecerá durante a décima edição do encontro brasileiro da comunidade Python,
-PythonBrasil[10].
+acontecerá durante a décima segunda edição do encontro brasileiro da comunidade Python,
+PythonBrasil[12].
 
 Essa assembleia visa a apresentação da situação atual da Associação Python
 Brasil, definição de ações para o futuro, sugestões para mudanças no estatuto
@@ -31,11 +31,11 @@ são:
 
 ## Data e Hora
 
-Quinta-Feira, dia 6 de novembro de 2014, 19:00.
+Doming, dia 16 de outubro de 2016, 18:00.
 
 ## Local da Assembléia
 
 ```
-PythonBrasil[10] - Hotel Armação
-Porto de Galinhas, Recife (PE), Brasil.
+PythonBrasil[12] - Centro Sul
+Florianópolis / Santa Catarina (SC), Brasil.
 ```
