@@ -76,7 +76,9 @@ d. Honorários.
  Brasil, recebam tal designação do Conselho Deliberativo, ouvida a
  Diretoria.
 
-Art. 5º - É direito de todos os Associados pessoas físicas serem informados de atividades apoiadas ou organizadas pela Associação Python Brasil e de outros benefícios que venham a ser criados.
+Art. 5º - É direito de todos os Associados pessoas físicas serem informados
+de atividades apoiadas ou organizadas pela Associação Python Brasil
+e de outros benefícios que venham a ser criados.
 
  § único: São direitos exclusivos dos Associados Plenos e Associados
  Efetivos: votar as deliberações propostas em Assembléia Geral, votar e ser
@@ -432,19 +434,3 @@ Conselho Deliberativo.
 
 Art. 42º - A convocação dos órgãos deliberativos poderá ser feita por 1/5 (um
 quinto) dos Associados com direito a voto.
-
-Art. 43º - Durante a Assembléia de Fundação serão eleitos uma Diretoria, 9
-(nove) conselheiros e 3 (três) suplentes para o Conselho Deliberativo e 3
-(três) conselheiros e 2 (dois) suplentes para o Conselho Fiscal, com os
-seguintes mandatos reduzidos:
-
-a. Diretoria e Conselho Fiscal: mandato até a Assembléia Geral prevista para
-   agosto de 2007;
-b. Conselho Deliberativo: 1/3 (um terço) com mandato até a Assembléia Geral
-   prevista para agosto de 2007, e 2/3 (dois terços) com mandato até a
-   Assembléia Geral prevista para o segundo semestre de 2008. Os eleitos melhor
-   classificados na lista de votação terão o mandato mais longo.
-
-Art. 44º - Excepcionalmente, durante a primeira Assembléia Geral que ocorrer um
-ano após a Assembléia de Fundação, alterações neste estatuto poderão ser feitas
-por maioria simples dos votos dos presentes.
