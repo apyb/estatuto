@@ -9,8 +9,8 @@ associação civil de direito privado, sem fins lucrativos, que se regerá pelos
 presentes estatutos, com sede e foro na cidade de Caxias do Sul, RS, podendo,
 estabelecer delegações em quaisquer cidades do território nacional.
 
- § primeiro: a Associação Python Brasil terá sede na Rua Andréa Viero 215,
- Bairro Marechal Floriano, Caxias do Sul, RS, CEP 95013-060.
+ § primeiro: a Associação Python Brasil terá sede na Rua José Tovasi, 417, 
+ Bairro Cruzeiro, Caxias do Sul, RS, CEP 95072-300.
 
  § segundo: o prazo de duração da Associação Python Brasil é por tempo
  indeterminado.
@@ -146,13 +146,13 @@ c. alterar o estatuto.
 d. aprovar as contas e relatório constante no item "a" art 29.º deste Estatuto.
 
 Art. 12º - A Assembléia Geral reunir-se-á ordinariamente uma vez por ano, de
-preferência durante a realização de evento de porte nacional, para dar
-conhecimento aos seus membros do relatório da Diretoria, já aprovado pelo
-Conselho Deliberativo, e eleger, quando couber, uma nova Diretoria e membros do
-Conselho Deliberativo, conforme dispõem os termos do Estatuto;
-extraordinariamente, para fins especiais e expressos, sempre que convocada pelo
-Conselho Deliberativo, pela Diretoria ou por 1/5 (um quinto) dos Associados
-Plenos e Efetivos em gozo dos seus direitos.
+preferência em data próxima ou durante o evento de porte nacional, preferencialmente
+presencial ou, caso necessário, online. Nesse momento será dado conhecimento aos
+seus membros do relatório da Diretoria, já aprovado pelo Conselho Deliberativo, e
+elegerá, quando couber, uma nova Diretoria e membros do Conselho Deliberativo,
+conforme dispõem os termos do Estatuto; extraordinariamente, para fins especiais e
+expressos, sempre que convocada pelo Conselho Deliberativo, pela Diretoria ou por
+1/5 (um quinto) dos Associados Plenos e Efetivos em gozo dos seus direitos.
 
  § primeiro: a Assembléia Geral elegerá dentre os seus membros uma Mesa
  constituída por um presidente, um primeiro e um segundo secretários.
@@ -163,10 +163,11 @@ Plenos e Efetivos em gozo dos seus direitos.
 Art. 13º - Ressalvadas outras disposições estatutárias, devem ser observadas as
 seguintes normas para que a Assembléia Geral se realize e delibere:
 
-a. a Assembléia Geral deverá funcionar, em primeira convocação, com a presença
+a. a Assembleia Geral deverá funcionar, em primeira convocação, com a presença
    mínima de 1/3 (um terço) dos Associados com direito a voto, e em segunda
    convocação, 30 (trinta) minutos depois, com qualquer quorum a partir de 11
-   (onze) membros;
+   (onze) membros. O registro da presença deverá ocorrer preferencialmente por
+   meios digitais, independente da forma como a Assembleia ocorra; 
 b. as decisões serão obtidas por maioria absoluta dos presentes, exceto quando
    se tratar de alterações neste estatuto;
 c. para aprovar alterações neste estatuto serão necessários no mínimo 2/3 dos
