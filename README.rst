@@ -9,8 +9,8 @@ associação civil de direito privado, sem fins lucrativos, que se regerá pelos
 presentes estatutos, com sede e foro na cidade de Caxias do Sul, RS, podendo,
 estabelecer delegações em quaisquer cidades do território nacional.
 
- § primeiro: a Associação Python Brasil terá sede na Rua Andréa Viero 215,
- Bairro Marechal Floriano, Caxias do Sul, RS, CEP 95013-060.
+ § primeiro: a Associação Python Brasil terá sede na Rua José Tovasi, 417, 
+ Bairro Cruzeiro, Caxias do Sul, RS, CEP 95072-300.
 
  § segundo: o prazo de duração da Associação Python Brasil é por tempo
  indeterminado.
@@ -54,8 +54,8 @@ c. Estudantes;
 d. Honorários.
 
  § primeiro: são Associados Plenos as pessoas físicas que tenham completado
- cinco anos como Associados Efetivos ou tenham assinado a Ata da Assembléia
- de Fundação até trinta dias após a realização da Assembléia de Fundação, e
+ cinco anos como Associados Efetivos ou tenham assinado a Ata da Assembleia
+ de Fundação até trinta dias após a realização da Assembleia de Fundação, e
  estejam quites com a taxa de inscrição e demais contribuições, na forma
  indicada pela Diretoria e fixada pelo Conselho Deliberativo.
 
@@ -81,7 +81,7 @@ de atividades apoiadas ou organizadas pela Associação Python Brasil
 e de outros benefícios que venham a ser criados.
 
  § único: São direitos exclusivos dos Associados Plenos e Associados
- Efetivos: votar as deliberações propostas em Assembléia Geral, votar e ser
+ Efetivos: votar as deliberações propostas em Assembleia Geral, votar e ser
  votado para a Diretoria, Conselho Deliberativo e Conselho Fiscal.
 
 Art. 6º - São deveres de todos os Associados: contribuir regularmente, na forma
@@ -104,15 +104,15 @@ Art. 7º - Qualquer associado pode ser advertido, suspenso, e até excluído por
 atos ou omissões, pelo não-exercício de suas funções estatutárias ou por
 desrespeito aos objetivos fundamentais da Associação Python Brasil, mediante
 proposta da Diretoria ou de um grupo de associados ao Conselho Deliberativo. Os
-membros faltosos bem como os demais membros da Assembléia serão comunicados por
+membros faltosos bem como os demais membros da Assembleia serão comunicados por
 escrito, incluindo meios eletrônicos, através de advertência. Os membros
 faltosos têm 30 dias após a divulgação da advertência para interpor recurso à
-Assembléia Geral.
+Assembleia Geral.
 
  § único: em caso comprovadamente grave, e após ser oportunizado ao
- associado o direito de ampla defesa, a Assembléia Geral decidirá, no prazo
+ associado o direito de ampla defesa, a Assembleia Geral decidirá, no prazo
  de 60 (sessenta) dias qual a penalidade sofrerá o associado faltoso do
- Conselho Deliberativo e da Assembléia Geral.
+ Conselho Deliberativo e da Assembleia Geral.
 
 Art. 8º - É direito do associado demitir-se do quadro social, quando julgar
 necessário, protocolando seu pedido junto à secretária da Associação Python
@@ -120,53 +120,54 @@ Brasil, desde que não esteja em débito com suas obrigações associativas.
 
 Art. 9º - Os órgãos de direção da Associação Python Brasil são:
 
-a. Assembléia Geral;
+a. Assembleia Geral;
 b. Conselho Deliberativo;
 c. Diretoria;
 d. Conselho Fiscal;
 e. Conselho Consultivo.
 
 
-Capítulo III - Da Assembléia
+Capítulo III - Da Assembleia
 ----------------------------
 
-Art. 10º - A Assembléia Geral é a reunião dos Associados Plenos e Efetivos, com
+Art. 10º - A Assembleia Geral é a reunião dos Associados Plenos e Efetivos, com
 direito a voto e em dia com as suas contribuições. É o principal órgão de poder
 e deliberação da Associação.
 
- § único: a convocação para a Assembléia Geral far-se-á com a antecedência
+ § único: a convocação para a Assembleia Geral far-se-á com a antecedência
  mínima de 30 (trinta) dias, mediante correspondência eletrônica aos
  associados, bem como em Edital disponível no site da Associação.
 
-Art. 11º - Compete privativamente à assembléia geral:
+Art. 11º - Compete privativamente à assembleia geral:
 
 a. eleger os Diretores e Conselheiros;
 b. destituir os Diretores e Conselheiros;
 c. alterar o estatuto.
 d. aprovar as contas e relatório constante no item "a" art 29.º deste Estatuto.
 
-Art. 12º - A Assembléia Geral reunir-se-á ordinariamente uma vez por ano, de
-preferência durante a realização de evento de porte nacional, para dar
-conhecimento aos seus membros do relatório da Diretoria, já aprovado pelo
-Conselho Deliberativo, e eleger, quando couber, uma nova Diretoria e membros do
-Conselho Deliberativo, conforme dispõem os termos do Estatuto;
-extraordinariamente, para fins especiais e expressos, sempre que convocada pelo
-Conselho Deliberativo, pela Diretoria ou por 1/5 (um quinto) dos Associados
-Plenos e Efetivos em gozo dos seus direitos.
+Art. 12º - A Assembleia Geral reunir-se-á ordinariamente uma vez por ano, de
+preferência em data próxima ou durante o evento de porte nacional, preferencialmente
+presencial ou, caso necessário, online. Nesse momento será dado conhecimento aos
+seus membros do relatório da Diretoria, já aprovado pelo Conselho Deliberativo, e
+elegerá, quando couber, uma nova Diretoria e membros do Conselho Deliberativo,
+conforme dispõem os termos do Estatuto; extraordinariamente, para fins especiais e
+expressos, sempre que convocada pelo Conselho Deliberativo, pela Diretoria ou por
+1/5 (um quinto) dos Associados Plenos e Efetivos em gozo dos seus direitos.
 
- § primeiro: a Assembléia Geral elegerá dentre os seus membros uma Mesa
+ § primeiro: a Assembleia Geral elegerá dentre os seus membros uma Mesa
  constituída por um presidente, um primeiro e um segundo secretários.
 
  § segundo: os trabalhos das Assembléias Gerais serão dirigidos pelo
  presidente, coadjuvado pelos secretários.
 
 Art. 13º - Ressalvadas outras disposições estatutárias, devem ser observadas as
-seguintes normas para que a Assembléia Geral se realize e delibere:
+seguintes normas para que a Assembleia Geral se realize e delibere:
 
-a. a Assembléia Geral deverá funcionar, em primeira convocação, com a presença
+a. a Assembleia Geral deverá funcionar, em primeira convocação, com a presença
    mínima de 1/3 (um terço) dos Associados com direito a voto, e em segunda
    convocação, 30 (trinta) minutos depois, com qualquer quorum a partir de 11
-   (onze) membros;
+   (onze) membros. O registro da presença deverá ocorrer preferencialmente por
+   meios digitais, independente da forma como a Assembleia ocorra; 
 b. as decisões serão obtidas por maioria absoluta dos presentes, exceto quando
    se tratar de alterações neste estatuto;
 c. para aprovar alterações neste estatuto serão necessários no mínimo 2/3 dos
@@ -174,7 +175,7 @@ c. para aprovar alterações neste estatuto serão necessários no mínimo 2/3 d
 d. é permitido o voto por procuração, limitado a uma procuração por membro
    presente.
 
- § único: os membros da mesa da Assembléia Geral poderão integrar outros órgãos
+ § único: os membros da mesa da Assembleia Geral poderão integrar outros órgãos
  da direção da Associação Python Brasil.
 
 
@@ -182,7 +183,7 @@ Capítulo IV - Do Conselho Deliberativo
 --------------------------------------
 
 Art. 14º - O Conselho Deliberativo será constituído por 3 (três) membros
-titulares e 1 (um) suplente, eleitos individualmente pela Assembléia Geral,
+titulares e 1 (um) suplente, eleitos individualmente pela Assembleia Geral,
 sendo composto obrigatoriamente por Associados Plenos ou Efetivos, conforme
 disposição abaixo, Capítulo VIII, "Das eleições".
 
@@ -214,7 +215,7 @@ a. interpretar os presentes estatutos e aprovar regulamentos e normas
 b. recomendar a suspensão ou a exclusão de qualquer membro do Conselho
    Deliberativo, da Diretoria, do Conselho Fiscal ou do Conselho Consultivo, em
    caso de não-exercício de suas funções estatutárias ou por falta grave,
-   assegurado o direito de defesa e recurso à Assembléia Geral;
+   assegurado o direito de defesa e recurso à Assembleia Geral;
 c. aplicar penalidades e julgar recursos;
 d. fixar anuidades e outras contribuições, por proposta da Diretoria; as
    atualizações são de competência da Diretoria;
@@ -232,14 +233,14 @@ Capítulo V - Da Diretoria
 -------------------------
 
 Art. 16º - A Diretoria é composta por 4 (quatro) Associados Plenos ou Efetivos
-eleitos pela Assembléia Geral para um mandato de 2 (dois) anos, iniciando no dia
+eleitos pela Assembleia Geral para um mandato de 2 (dois) anos, iniciando no dia
 quinze de janeiro do ano seguinte a data da eleição, e finalizando dois anos após
 o início do mandato, em quatorze de janeiro.
 
 Art. 17º - Compete à Diretoria planejar e realizar as atividades de entidade de
 acordo com seus objetivos e programas, além do cumprimento das
 responsabilidades que lhe serão atribuídas nestes estatutos ou que forem
-determinadas pela Assembléia Geral ou pelo Conselho Deliberativo.
+determinadas pela Assembleia Geral ou pelo Conselho Deliberativo.
 
 Art. 18º - A Diretoria é constituída por:
 
@@ -291,7 +292,7 @@ Capítulo VI - Do Conselho Fiscal
 --------------------------------
 
 Art. 26º - O Conselho Fiscal será constituído por 3 (três) membros titulares e
-1 (um) suplente eleito individualmente pela Assembléia Geral, com mandato
+1 (um) suplente eleito individualmente pela Assembleia Geral, com mandato
 concomitante ao da Diretoria.
 
  § primeiro: nenhum Associado poderá ocupar simultaneamente cargo no Conselho
@@ -345,13 +346,13 @@ Art. 32º - A eleição da Diretoria, do Conselho Deliberativo e do Conselho
 Fiscal dar-se-á a cada dois anos.
 
 Art. 33º - Os processos eleitorais para renovar a Diretoria, o Conselho
-Deliberativo e o Conselho Fiscal, através da Assembléia Geral, deverão ser
+Deliberativo e o Conselho Fiscal, através da Assembleia Geral, deverão ser
 convocados pela Diretoria com a antecedência mínima de 30 (trinta) dias.
 
  § primeiro: a inscrição das chapas para a Diretoria e candidatos às vagas dos
- Conselhos Deliberativo e Fiscal será feita na hora, junto à Mesa da Assembléia
+ Conselhos Deliberativo e Fiscal será feita na hora, junto à Mesa da Assembleia
  Geral, até meia hora após a determinação do quorum e início dos trabalhos da
- Assembléia.
+ Assembleia.
 
  § segundo: cada Associado poderá se candidatar a até duas vagas individuais,
  ou para uma vaga individual e uma chapa para a Diretoria.
@@ -373,7 +374,7 @@ Art. 34º - A eleição da Diretoria dar-se-á por chapas.
 Art. 35º - A eleição dos Conselhos Deliberativo e Fiscal dar-se-á por
 indivíduos.
 
- § primeiro: cada membro da Assembléia poderá votar em um nome para cada vaga
+ § primeiro: cada membro da Assembleia poderá votar em um nome para cada vaga
  em disputa no Conselho Deliberativo e no Conselho Fiscal, excluídas as
  suplências, podendo incluir nomes não relacionados junto à Mesa, desde que
  Associados Plenos ou Efetivos, em pleno gozo de seus direitos.
@@ -394,19 +395,19 @@ ou por obrigações contraídas por seus membros, salvo quando por deliberação
 seus órgãos de direção.
 
 Art. 37º - A dissolução da Associação, devidamente justificada, só poderá ser
-deliberada em Assembléia Geral Extraordinária, especialmente convocada para
+deliberada em Assembleia Geral Extraordinária, especialmente convocada para
 esse fim pelo Conselho Deliberativo ou pela Diretoria, com um quorum de 2/3
 (dois terços) dos associados com direito a voto, em primeira convocação, e com
 o quorum de 1/3 (um terço) dos associados com direito a voto, em segunda
 convocação, um dia depois.
 
- § primeiro: em caso de aprovação da dissolução da entidade, a Assembléia Geral
+ § primeiro: em caso de aprovação da dissolução da entidade, a Assembleia Geral
  deverá escolher uma comissão de associados, com poderes especiais, para
  proceder à liquidação.
 
  § segundo: apurado o ativo e liquidados os compromissos sociais, caso haja
  saldo positivo, este será doado a uma entidade similar ou congênere, inscrita
- no Conselho Nacional de Serviço Social, conforme Assembléia Geral
+ no Conselho Nacional de Serviço Social, conforme Assembleia Geral
  Extraordinária de dissolução.
 
 Art. 38º - As receitas da Associação Python Brasil são basicamente,
